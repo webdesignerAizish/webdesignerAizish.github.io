@@ -1,2 +1,2 @@
 # webdesignerAizish.github.io
-the webside for web design for everyone.
+Website for everyone to code.
